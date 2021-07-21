@@ -1,0 +1,31 @@
+{
+   "products": [
+      {
+         "id": 1,
+         "name": "Frothy Cold Coffee Kit",
+         "variant": "200g",
+         "price": 529,
+         "brand": "Nescafé",
+         "rating": 3,
+         "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/51PaLbSnVtS._AC_SY1000_FMwebp_.jpg"
+      },
+      {
+         "id": 2,
+         "name": "All Natural Peanut Butter",
+         "variant": "1kg",
+         "price": 399,
+         "brand": "Pintola",
+         "rating": 4,
+         "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/41SrNhoio%2BL._AC_SY1000_FMwebp_.jpg"
+      },
+      {
+         "id": 3,
+         "name": "Honey Lemon Green Tea Bags",
+         "variant": "32.5g",
+         "price": 149,
+         "brand": "Lipton",
+         "rating": 5,
+         "imgUrl": "https://www.bigbasket.com/media/uploads/p/m/40024622_10-lipton-honey-lemon-green-tea-bags.jpg"
+      }
+   ]
+}

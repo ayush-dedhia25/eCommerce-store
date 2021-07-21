@@ -1,0 +1,16 @@
+#bestDeals {
+   font-family: 'Roboto', Sans-Serif;
+}
+
+#bestDeals .section-heading {
+   letter-spacing: 1px;
+}
+
+.rating {
+   display: block;
+}
+
+.rating span {
+   font-size: .95rem;
+   color: #f9dc5c;
+}

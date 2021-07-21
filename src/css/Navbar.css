@@ -1,0 +1,18 @@
+.navbar {
+   position: sticky;
+   width: 100vw;
+   height: 60px;
+   padding: 0 1em;
+   color: #ffffff;
+   font-family: 'Quattrocento Sans', Sans-Serif;
+   letter-spacing: 1px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   background-color: #ed254e;
+   box-shadow: 0 2px 20px #ed254e;
+}
+
+.navbar .material-icons {
+   font-size: 30px;
+}
