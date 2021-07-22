@@ -26,6 +26,33 @@
          "brand": "Lipton",
          "rating": 5,
          "imgUrl": "https://www.bigbasket.com/media/uploads/p/m/40024622_10-lipton-honey-lemon-green-tea-bags.jpg"
+      },
+      {
+         "id": 4,
+         "name": "Muesli Fruit & Nuts",
+         "variant": "400g",
+         "price": 289,
+         "brand": "Alpino",
+         "rating": 5,
+         "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/51LDW%2B%2BV9DL._AC_SY1000_FMwebp_.jpg"
+      },
+      {
+         "id": 5,
+         "name": "Wholegrain Breakfast Muesli",
+         "variant": "700g",
+         "price": 416,
+         "brand": "YogaBar",
+         "rating": 4,
+         "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/51lRa-C1ZXL._AC_SY1000_FMwebp_.jpg"
+      },
+      {
+         "id": 6,
+         "name": "Iced Coffee | Set of 6",
+         "variant": "100ml",
+         "price": 540,
+         "brand": "Sleepy Owl",
+         "rating": 3,
+         "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/51bo4PebmQL._AC_SY1000_FMwebp_.jpg"
       }
    ]
 }

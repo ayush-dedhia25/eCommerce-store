@@ -1,7 +1,7 @@
-import React from "react";
-import "../css/Hero.css";
+import React from 'react';
+import '../css/Hero.css';
 
-import LinkTo from "../styled/Button";
+import LinkTo from '../styled/Button';
 
 const Hero: React.FC = () => {
    return (
