@@ -1,0 +1,22 @@
+#bestDeals {
+   font-family: 'Roboto', Sans-Serif;
+}
+
+#bestDeals .section-heading {
+   display: flex;
+   align-items: center;
+   letter-spacing: 1px;
+}
+
+.section-heading span {
+   color: #f9dc5c;
+}
+
+.rating {
+   display: block;
+}
+
+.rating span {
+   font-size: 0.95rem;
+   color: #f9dc5c;
+}
